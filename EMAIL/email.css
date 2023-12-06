@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.khungngoai{
+    width: 1440px;
+    height: 883px;
+    border: 1px solid #D9D9D9 ;
+}
+
+.khungtren{
+    width: 1322px;
+    height: 91px;
+    border: 1px solid #34bb41 ;
+    margin-left: 59px; 
+    display: flex;
+}
+
+.AccountCare{
+    width: 285px;
+    height: 58px;
+    border: 1px solid #bb3434 ;
+    margin-left: 136px;
+    margin-top: 17px;
+    display: flex;
+    align-items: center;
+}
+
+.Home1{
+    width: 513px;
+    height: 58px;
+    border: 1px solid #320808 ;
+    margin-left: 319px;
+    margin-top: 17px;
+}
+
+.Aboutus1{
+    width: 496px;
+    height: 24px;
+    border: 1px solid #fc2a2a ;
+    display: flex;
+    margin-top: 17px;
+}
+
+.Aboutus{
+    margin-left: 21px;
+    font-size: 16px;
+}

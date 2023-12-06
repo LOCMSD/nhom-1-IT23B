@@ -1,0 +1,180 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+  }
+  
+  .khung2{
+    height: 800px;
+    width: 360px;
+    border: 1px solid #D9D9D905;
+    background-color: #ffffff;
+  }
+  .login2{
+    height: 72px;
+    width: 194px;
+    border: 1px solid #ffffffcc; 
+    margin-top: 119px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 82px;
+    margin-top: 119px;
+  }
+  .nhapmk2{
+    height: 48px;
+    width: 312px;
+    margin-top: 28px;
+    margin-left: 24px;
+  }
+  .nhamk2{
+  height: 48px;
+  width: 312px;
+  margin-top: 28px;
+  margin-left: 24px;
+  border: 1px solid #00000066;
+  background-image: url('eye_password.png');
+  background-repeat: no-repeat;
+  background-size: 24px 24px; 
+  background-position: right 7px center; 
+  
+  }
+  
+  
+  /* CSS */
+  .button-92 {
+  width: 312px;
+  height: 48px;
+  border: 1px solid #FFFFFFE5;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-left: 24px;
+  background-color: #0E64D2;
+  color: #fff;
+  }
+  
+  .button-92:disabled {
+  cursor: default;
+  }
+  
+  .button-92:focus {
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px;
+  }
+  
+  .Don2{
+  width: 229px;
+  height: 21px;
+  border: 1px solid rgb(255, 255, 255);
+  margin-top: 16px;
+  margin-left: 66px;
+  display: flex;
+  }
+  
+  .Signup{
+  color: #2F89FC;
+  margin-left: 11px;
+  display: flex;
+  justify-content: flex-end;
+  }
+  .or-container2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 17px;
+  }
+  
+  .or-container2 .line {
+  width: 139px; 
+  height: 1px;
+  background-color: #000; 
+  margin: 0 10px; 
+  }
+  
+  .or-container2 span {
+  white-space: nowrap; 
+  }
+  
+  .button-222 {
+  width: 312px;
+  height: 48px;
+  align-items: center;
+  appearance: button;
+  background-color: #1877F2;
+  border-radius: 10px;
+  border-style: none;
+  box-shadow: rgba(255, 255, 255, 0.26) 0 1px 2px inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  flex-shrink: 0;
+  font-family: "RM Neue",sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.15;
+  margin: 0;
+  padding: 10px 21px;
+  text-align: center;
+  text-transform: none;
+  transition: color .13s ease-in-out, background-color .13s ease-in-out, opacity .13s ease-in-out, box-shadow .13s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 23px;
+  margin-left: 23px;
+  }
+  
+  .button-222 {
+  background-image: url('facebook logo.png');
+  background-repeat: no-repeat;
+  background-position: 10px center; 
+  padding-left: 57px;
+  
+  }
+  
+  .button-222:active {
+  background-color: #006AE8;
+  }
+  
+  .button-222:hover {
+  background-color: #1C84FF;
+  }
+  
+  /* CSS */
+  .button-282 {
+  width: 312px;
+  height: 48px;
+  border: 1px solid #00000066;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 10px;
+  margin-top: 23px;
+  margin-left: 23px;
+  }
+  
+  .button-282 {
+  background-image: url('google logo.png');
+  background-repeat: no-repeat;
+  background-position: 10px center; 
+  padding-left: 57px; 
+  
+  }
+  .button-282:disabled {
+  pointer-events: none;
+  }
+  
+  .button-28:hover {
+  color: #fff;
+  background-color: #1A1A1A;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+  }
+  
+  .button-282:active {
+  box-shadow: none;
+  transform: translateY(0);
+  }
